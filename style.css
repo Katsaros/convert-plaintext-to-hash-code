@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Play&display=swap');
+*{
+    font-family: 'Play', sans-serif, cursive!important;
+}
+
+body 
+{
+	background-color: #282828;
+	color: #fff;
+}
+
+.hashbutton
+{
+    font-size: 25px;
+    background: black;
+    color: white;
+    border: black solid 3px;
+    border-radius: 20px;
+}
+
+.hashbutton:hover
+{
+    font-size: 25px;
+    background: #282828;
+    color: white;
+    border: #282828 solid 3px;
+    border-radius: 20px;
+}
+
+.formstyle
+{
+	text-align: center;
+    width: fit-content;
+    border: solid 6px #b7b7b7;
+    padding-right: 30px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    border-radius: 30px;
+    color: black;
+    background: #b7b7b7;
+}
+
+.passinput
+{
+	font-size: 25px;
+    border: solid 2px black;
+    border-radius: 20px;
+}
