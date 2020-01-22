@@ -62,8 +62,9 @@ A webserver with apache/nginx and php installed. Upload it and open localhost/in
 - haval256,5
 
 ## Contributing
-1. Fork it (<https://github.com/Katsaros/convert-plaintext-to-hash-code/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Star it
+2. Fork it (<https://github.com/Katsaros/convert-plaintext-to-hash-code/fork>)
+3. Create your feature branch (`git checkout -b feature/fooBar`)
+4. Commit your changes (`git commit -am 'Add some fooBar'`)
+5. Push to the branch (`git push origin feature/fooBar`)
+6. Create a new Pull Request
