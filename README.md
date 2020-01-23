@@ -61,6 +61,11 @@ A webserver with apache/nginx and php installed. Upload it and open localhost/in
 - haval224,5
 - haval256,5
 
+## Attention
+
+`None of these algorithms should ever be used for hashing passwords. Password_hash and password_verify are the only way you should be hasing and verifying passwords in PHP today.`
+
+
 ## Contributing
 1. Star it
 2. Fork it (<https://github.com/Katsaros/convert-plaintext-to-hash-code/fork>)
