@@ -68,8 +68,8 @@ A webserver with apache/nginx and php installed. Upload it and open localhost/in
 
 ## Contributing
 1. Star it
-2. Fork it (<https://github.com/Katsaros/convert-plaintext-to-hash-code/fork>)
+2. Fork it (<https://github.com/Katsaros/Wordpress-Greek-Coronavirus-Stats/fork>)
 3. Create your feature branch (`git checkout -b feature/fooBar`)
-4. Commit your changes (`git commit -am 'Add some fooBar'`)
-5. Push to the branch (`git push origin feature/fooBar`)
+4. Commit your changes (`git commit -am 'Add newFeature'`)
+5. Push to the branch (`git push origin feature/newFeature`)
 6. Create a new Pull Request
